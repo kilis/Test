@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1399145169 source:c:\users\kristaps\documents\ds\test\main.cpp
+	<iostream>
+	"intk.h"
+	"fact_int.h"
+	"power_int.h"
+	"menu_input.h"
+
+1399135336 c:\users\kristaps\documents\ds\test\intk.h
+
+1399132875 source:c:\users\kristaps\documents\ds\test\intk.cpp
+	"intk.h"
+	"fact_int.h"
+
+1399127025 source:c:\users\kristaps\documents\ds\test\fact_int.cpp
+	"fact_int.h"
+
+1399127039 c:\users\kristaps\documents\ds\test\fact_int.h
+
+1399133020 c:\users\kristaps\documents\ds\test\power_int.h
+
+1399133027 source:c:\users\kristaps\documents\ds\test\power_int.cpp
+	"power_int.h"
+	<stdio.h>
+	<stdlib.h>
+
+1399144869 c:\users\kristaps\documents\ds\test\menu_input.h
+
+1399145224 source:c:\users\kristaps\documents\ds\test\menu_input.cpp
+	<iostream>
+	<stdlib.h>
+	"intk.h"
+	"fact_int.h"
+	"power_int.h"
+	"stringk.h"
+
+1399144684 c:\users\kristaps\documents\ds\test\stringk.h
+
+1399144693 source:c:\users\kristaps\documents\ds\test\stringk.cpp
+	<iostream>
+	<stdlib.h>
+
